@@ -1,0 +1,6 @@
+(firm_1,firm_2)
+0 0 enter-1 exit-2
+1 1 war-3 accommodate-4
+2 (0,10)
+3 (-1,-1)
+4 (5,5)
